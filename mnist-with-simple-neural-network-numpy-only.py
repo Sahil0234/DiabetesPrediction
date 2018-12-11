@@ -1,4 +1,4 @@
-#  Copyright PankajMathur.com @2016
+
 
 import numpy as np
 # special for the sigmoid function expit()
